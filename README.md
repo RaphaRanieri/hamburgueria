@@ -2,6 +2,8 @@
 
 Sistema de gerenciamento de pedidos para uma hamburgueria, desenvolvido em Java com aplicação de múltiplos padrões de projeto (Design Patterns).
 
+Raphaella Ranieri de abreu senra
+
 ## Padrões de Projeto Utilizados
 
 | Padrão | Pacote | Descrição |
